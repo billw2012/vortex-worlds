@@ -8,7 +8,6 @@ using HarmonyLib;
 using UnityEngine;
 using Debug = UnityEngine.Debug;
 
-
 namespace VortexWorlds
 {
     public static class ModInfo
