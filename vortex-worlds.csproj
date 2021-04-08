@@ -7,8 +7,8 @@
         <ProjectGuid>{FF33BAD2-B5FE-4861-8696-8C91506EECBF}</ProjectGuid>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>vortex_worlds</RootNamespace>
-        <AssemblyName>vortex_worlds</AssemblyName>
+        <RootNamespace>vortex-worlds</RootNamespace>
+        <AssemblyName>vortex-worlds</AssemblyName>
         <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
